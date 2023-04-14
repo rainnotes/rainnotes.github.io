@@ -1,5 +1,5 @@
 ---
-layout: Post 
+layout: post 
 title: "Recipe: Quick Sandwich Bread"
 comments: true
 description: ""
