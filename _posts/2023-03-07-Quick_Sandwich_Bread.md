@@ -6,7 +6,7 @@ description: ""
 keywords: ""
 ---
 
-# Quick Sandwich Bread
+![](/assets/images/bread.JPEG)
 
 > Simple soft white sandwich bread...not much else
 
